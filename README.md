@@ -1,6 +1,6 @@
 <h3>
 <br>========================================
-<br><a href="https://github.com/cn-text-talk/cnt_rep_00000001/" target=_blank>cnt_rep_00000001</a>
+<br><a href="https://github.com/cn-text-talk/cnt_rep_00000001/" target=_blank>cnt_rep_00000001→</a>
 <br>========================================
 <br>$\textsf{\color{red}{「副元神可不是附体，他和你同时从娘胎里生出来的，」}}$
 <br>$\textsf{\color{red}{「生你元神的那个母亲才是你真正的母亲。」}}$
